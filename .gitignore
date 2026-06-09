@@ -1,0 +1,7 @@
+venv/
+.env
+_pycache_/
+*.рус
+.idea/
+.vscode/
+.DS_Store
